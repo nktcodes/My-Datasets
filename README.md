@@ -6,3 +6,4 @@
 
  * AAPL stock data
  * AMZN stock data
+ * TSLA stock data
