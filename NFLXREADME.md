@@ -1,8 +1,8 @@
 # Summary
 
-This dataset is for Netflix, Inc, stock.
-The ticker is NFLX.
-This dataset looks at the **Daily** _Open_, _High_, _Low_, _Close_ and includes the _Volume_.
+This dataset is for Netflix, Inc, stock.  
+The ticker is NFLX.  
+This dataset looks at the **Daily** _Open_, _High_, _Low_, _Close_ and includes the _Volume_.  
 
 
 # Dataset Format
