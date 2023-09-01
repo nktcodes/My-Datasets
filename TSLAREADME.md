@@ -1,8 +1,8 @@
 # Summary
 
-This dataset is for TESLA, Inc, stock.
-The ticker is TSLA.
-This dataset looks at the **Daily** _Open_, _High_, _Low_, _Close_ and includes the _Volume_.
+This dataset is for TESLA, Inc, stock.  
+The ticker is TSLA.  
+This dataset looks at the **Daily** _Open_, _High_, _Low_, _Close_ and includes the _Volume_.  
 
 # Dataset Range
 
