@@ -8,3 +8,4 @@
  * AMZN stock data
  * TSLA stock data
  * NFLX stock data
+ * MSFT stock data
