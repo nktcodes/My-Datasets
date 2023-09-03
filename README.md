@@ -1,6 +1,6 @@
 # My-Datasets
 
- This is a collection of stock datasets that will be useful for financial analysis.
+ This is a collection of stock market datasets that will be useful for financial analysis.
 
  Currently the dataset is composed of:
 
@@ -9,3 +9,4 @@
  * TSLA stock data
  * NFLX stock data
  * MSFT stock data
+ * VIX index data
