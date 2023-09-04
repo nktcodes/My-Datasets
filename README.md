@@ -10,3 +10,4 @@
  * NFLX stock data
  * MSFT stock data
  * VIX index data
+ * GOOG stock data
