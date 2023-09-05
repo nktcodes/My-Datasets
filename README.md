@@ -11,3 +11,4 @@
  * MSFT stock data
  * VIX index data
  * GOOG stock data
+ * META stock data
