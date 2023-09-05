@@ -19,5 +19,5 @@ Daily Data from: 2012-05-18 to 2023-09-01
 
 * Takes splits and dividends into account and relects a more accurate measure of a stock's value.
 
-Data Range
+
 
