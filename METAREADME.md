@@ -1,6 +1,6 @@
 # Summary
 
-This dataset is for Meta Platforms, Inc., doing business as Meta, and formerly named Facebook, Inc., and TheFacebook, Inc.
+This dataset is for Meta Platforms, Inc., doing business as Meta, and formerly named Facebook, Inc., and TheFacebook, Inc.  
 The ticker is META.  
 This dataset looks at the **Daily** _Open_, _High_, _Low_, _Close_ and includes the _Volume_.  
 
