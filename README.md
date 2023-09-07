@@ -13,3 +13,4 @@
  * GOOG stock data
  * META stock data
  * AMD stock data
+ * HPQ stock data
