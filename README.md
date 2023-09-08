@@ -14,3 +14,4 @@
  * META stock data
  * AMD stock data
  * HPQ stock data
+ * GE stock data
