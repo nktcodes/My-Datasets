@@ -17,14 +17,4 @@ Daily Data from: 1962-01-02 to 2023-09-06
 
 **Adjusted Close:**  
 
-* Takes splits and dividends into account and relects a more accurate measure of a stock's value.  
-
-
-
-
-
-
-
-
-
-1962-01-02 to 2023-09-06
+* Takes splits and dividends into account and relects a more accurate measure of a stock's value.
