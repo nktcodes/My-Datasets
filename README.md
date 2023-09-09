@@ -15,3 +15,4 @@
  * AMD stock data
  * HPQ stock data
  * GE stock data
+ * BAC stock data
