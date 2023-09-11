@@ -17,3 +17,4 @@
  * GE stock data
  * BAC stock data
  * JPM stock data
+ * BRK stock data
