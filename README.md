@@ -19,3 +19,4 @@
  * JPM stock data
  * BRK stock data
  * UNH stock data
+ * LLY stock data
