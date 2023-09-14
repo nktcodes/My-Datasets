@@ -20,3 +20,4 @@
  * BRK stock data
  * UNH stock data
  * LLY stock data
+ * XOM stock data
