@@ -23,3 +23,4 @@
  * XOM stock data
  * JNJ stock data
  * V stock data
+ * PG stock data
