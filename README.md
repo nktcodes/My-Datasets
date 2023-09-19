@@ -25,3 +25,4 @@
  * V stock data
  * PG stock data
  * AVGO stock data
+ * MA stock data
