@@ -26,3 +26,4 @@
  * PG stock data
  * AVGO stock data
  * MA stock data
+ * HD stock data
