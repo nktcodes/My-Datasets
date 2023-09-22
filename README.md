@@ -28,3 +28,4 @@
  * MA stock data
  * HD stock data
  * CVX stock data
+ * MRK stock data
