@@ -30,3 +30,4 @@
  * CVX stock data
  * MRK stock data
  * ABBV stock data
+ * PEP stock data
