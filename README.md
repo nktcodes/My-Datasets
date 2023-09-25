@@ -31,3 +31,4 @@
  * MRK stock data
  * ABBV stock data
  * PEP stock data
+ * COST stock data
