@@ -34,3 +34,4 @@
  * COST stock data
  * ADBE stock data
  * VOD stock data
+ * LLOY.L stock data
