@@ -35,3 +35,4 @@
  * ADBE stock data
  * VOD stock data
  * LLOY.L stock data
+ * HSBA.L stock data
