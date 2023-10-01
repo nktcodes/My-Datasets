@@ -37,3 +37,4 @@
  * LLOY.L stock data
  * HSBA.L stock data
  * BP.L stock data
+ * JD.L stock data
