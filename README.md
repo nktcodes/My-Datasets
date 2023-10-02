@@ -38,3 +38,4 @@
  * HSBA.L stock data
  * BP.L stock data
  * JD.L stock data
+ * BARC.L stock data
