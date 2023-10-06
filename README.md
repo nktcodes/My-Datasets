@@ -42,3 +42,4 @@
  * RR.L stock data
  * NWG.L stock data
  * CNA.L stock data
+ * BT-A.L stock data
