@@ -47,3 +47,4 @@
  * IAG.L stock data
  * GLEN.L stock data
  * TSCO.L stock data
+ * BA.L stock data
