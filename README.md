@@ -48,3 +48,4 @@
  * GLEN.L stock data
  * TSCO.L stock data
  * BA.L stock data
+ * ENT.L stock data
