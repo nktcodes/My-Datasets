@@ -50,3 +50,4 @@
  * BA.L stock data
  * ENT.L stock data
  * ULVR.L stock data
+ * SSE.L stock data
