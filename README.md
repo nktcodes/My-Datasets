@@ -53,3 +53,4 @@
  * SSE.L stock data
  * SMT.L stock data
  * MKS.L stock data
+ * GOLD price data
