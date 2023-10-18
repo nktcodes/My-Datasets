@@ -54,3 +54,4 @@
  * SMT.L stock data
  * MKS.L stock data
  * GOLD price data
+ * SILVER price data
