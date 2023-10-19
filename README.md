@@ -55,3 +55,5 @@
  * MKS.L stock data
  * GOLD price data
  * SILVER price data
+ * CRUDE OIL price data
+ 
