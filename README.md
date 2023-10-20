@@ -56,4 +56,5 @@
  * GOLD price data
  * SILVER price data
  * CRUDE OIL price data
+ * BRENT CRUDE OIL price data
  
