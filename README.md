@@ -57,4 +57,5 @@
  * SILVER price data
  * CRUDE OIL price data
  * BRENT CRUDE OIL price data
+ * HEATING OIL price data
  
