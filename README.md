@@ -61,3 +61,4 @@
  * NATURAL GAS price data
  * RBOB GASOLINE price data
  * COCOA price data
+ * COFFEE price data
