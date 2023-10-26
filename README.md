@@ -62,3 +62,4 @@
  * RBOB GASOLINE price data
  * COCOA price data
  * COFFEE price data
+ * COTTON price data
