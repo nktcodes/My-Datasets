@@ -64,3 +64,4 @@
  * COFFEE price data
  * COTTON price data
  * ORANGE JUICE price data
+ * RANDOM LENGTH LUMBER price data
