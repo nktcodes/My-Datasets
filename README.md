@@ -66,3 +66,4 @@
  * ORANGE JUICE price data
  * RANDOM LENGTH LUMBER price data
  * SUGAR price data
+ * LEAN HOGS price data
