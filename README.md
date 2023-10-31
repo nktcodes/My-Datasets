@@ -67,3 +67,4 @@
  * RANDOM LENGTH LUMBER price data
  * SUGAR price data
  * LEAN HOGS price data
+ * LIVE CATTLE price data
