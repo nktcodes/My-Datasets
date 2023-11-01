@@ -68,3 +68,4 @@
  * SUGAR price data
  * LEAN HOGS price data
  * LIVE CATTLE price data
+ * CORN price data
