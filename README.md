@@ -70,3 +70,4 @@
  * LIVE CATTLE price data
  * CORN price data
  * WHEAT price data
+ * OAT price data
