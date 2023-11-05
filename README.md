@@ -72,3 +72,4 @@
  * WHEAT price data
  * OAT price data
  * ROUGH RICE price data
+ * SOY BEAN price data
