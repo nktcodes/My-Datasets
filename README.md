@@ -74,3 +74,4 @@
  * ROUGH RICE price data
  * SOY BEAN price data
  * SOY BEAN OIL price data
+ * COPPER price data
