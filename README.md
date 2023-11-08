@@ -75,3 +75,4 @@
  * SOY BEAN price data
  * SOY BEAN OIL price data
  * COPPER price data
+ * PALLADIUM price data
