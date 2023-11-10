@@ -77,3 +77,4 @@
  * COPPER price data
  * PALLADIUM price data
  * PLATINIUM price data
+ * NASDAQ-100 price data
