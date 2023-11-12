@@ -79,3 +79,4 @@
  * PLATINIUM price data
  * NASDAQ-100 price data
  * SPY price data
+ * SPX price data
