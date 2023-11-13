@@ -80,3 +80,4 @@
  * NASDAQ-100 price data
  * SPY price data
  * SPX price data
+ * QQQ price data
