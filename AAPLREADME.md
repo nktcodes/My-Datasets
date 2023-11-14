@@ -20,7 +20,7 @@ Daily Data from: 1980-12-12 to 2023-08-28.
 
 **20 Day Average Volume:**
 
-* A rolling metric to gauge trading liquidity and interest over a set period.
+* A rolling metric used to gauge trading liquidity and interest over a set period.
 
 **Split Adjusted:**
 
