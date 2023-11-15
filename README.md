@@ -1,6 +1,6 @@
 # My-Datasets
 
- This is a collection of stock market datasets that will be useful for financial analysis.
+ This is a collection of stock,commodities and forex datasets that will be useful for financial analysis.
 
  Currently the dataset is composed of:
 
@@ -81,3 +81,4 @@
  * SPY price data
  * SPX price data
  * QQQ price data
+ * AUD-USD forex data
