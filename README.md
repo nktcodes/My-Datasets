@@ -82,3 +82,4 @@
  * SPX price data
  * QQQ price data
  * AUD-USD forex data
+ * EUR-USD forex data
