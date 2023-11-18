@@ -84,3 +84,4 @@
  * AUD-USD forex data
  * EUR-USD forex data
  * GBP-USD forex data
+ * NZD-USD forex data
