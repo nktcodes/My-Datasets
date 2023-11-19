@@ -1,6 +1,6 @@
 # My-Datasets
 
- This is a collection of stock,commodities and forex datasets that will be useful for financial analysis.
+ This is a collection of stock, commodities and forex datasets that will be useful for financial analysis.
 
  Currently the dataset is composed of:
 
@@ -85,3 +85,4 @@
  * EUR-USD forex data
  * GBP-USD forex data
  * NZD-USD forex data
+ * USD-CAD forex data
