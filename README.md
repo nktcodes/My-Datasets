@@ -86,3 +86,4 @@
  * GBP-USD forex data
  * NZD-USD forex data
  * USD-CAD forex data
+ * USD-CHF forex data
