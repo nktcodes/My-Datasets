@@ -87,3 +87,4 @@
  * NZD-USD forex data
  * USD-CAD forex data
  * USD-CHF forex data
+ * USD-JPY forex data
